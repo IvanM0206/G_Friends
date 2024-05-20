@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "153190922014",
+    "project_id": "fir-chatapp-a26a6",
+    "storage_bucket": "fir-chatapp-a26a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153190922014:android:09ecc5a184f9f7a02afb0f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRR_82RVKov-h3rpA9PyJ1tXEMk5yASOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153190922014:android:42a64bc14a47f4ba2afb0f",
+        "android_client_info": {
+          "package_name": "com.example.g_friends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRR_82RVKov-h3rpA9PyJ1tXEMk5yASOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
